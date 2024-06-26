@@ -155,3 +155,7 @@
 #dark-mode .navbar a.active {
   color: var(--light-mode-color);
 }
+
+.container.active {
+  z-index: 1;
+}
